@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hey everyone!
+
+Jessica here. I'm a baby coder, chasing the dream of front-end development.
